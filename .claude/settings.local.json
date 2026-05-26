@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\kissl\\\\OneDrive\\\\Skrivbord\\\\HappyHome\")",
+      "PowerShell(dotnet --version)",
+      "PowerShell($root=\"C:\\\\Users\\\\kissl\\\\OneDrive\\\\Skrivbord\\\\HappyHome\"; Get-ChildItem $root\\\\HappyHome.Core; Get-ChildItem $root\\\\HappyHome.Api)",
+      "Bash(dotnet build *)",
+      "Bash(dotnet test *)",
+      "Bash(dotnet ef *)",
+      "Read(//c/Users/kissl/AppData/Local/Temp/claude/C--Users-kissl-OneDrive-Skrivbord-HappyHome/6d0ffa01-0faf-4349-9481-3b9f850949a8/tasks/**)"
+    ]
+  }
+}

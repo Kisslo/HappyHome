@@ -1,0 +1,6 @@
+@HappyHome.Api_HostAddress = http://localhost:5189
+
+GET {{HappyHome.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,17 @@
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\bin\Debug\net8.0\HappyHome.Infrastructure.deps.json
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\bin\Debug\net8.0\HappyHome.Infrastructure.runtimeconfig.json
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\bin\Debug\net8.0\HappyHome.Infrastructure.dll
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\bin\Debug\net8.0\HappyHome.Infrastructure.pdb
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\bin\Debug\net8.0\HappyHome.Core.dll
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\bin\Debug\net8.0\HappyHome.Core.pdb
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\HappyHome.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\HappyHome.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\HappyHome.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\HappyHome.Infrastructure.AssemblyInfo.cs
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\HappyHome.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\HappyHom.2CA6F123.Up2Date
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\HappyHome.Infrastructure.dll
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\refint\HappyHome.Infrastructure.dll
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\HappyHome.Infrastructure.pdb
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\HappyHome.Infrastructure.genruntimeconfig.cache
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Infrastructure\obj\Debug\net8.0\ref\HappyHome.Infrastructure.dll

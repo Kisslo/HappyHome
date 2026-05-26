@@ -1,0 +1,17 @@
+### Reset och seed
+DELETE http://localhost:5189/api/dev/reset
+
+### Status
+GET http://localhost:5189/api/dev/status
+
+### Hämta alla terapeuter
+GET http://localhost:5189/api/Terapeut
+
+### Hämta alla klienter
+GET http://localhost:5189/api/Klient
+
+### Hämta lediga tidsluckor
+GET http://localhost:5189/api/Tidslucka/lediga
+
+### Hämta klientens bokningar (byt ut 1 mot rätt id)
+GET http://localhost:5189/api/Bokning/klient/1

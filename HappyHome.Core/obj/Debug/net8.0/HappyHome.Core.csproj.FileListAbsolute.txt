@@ -1,0 +1,11 @@
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\bin\Debug\net8.0\HappyHome.Core.deps.json
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\bin\Debug\net8.0\HappyHome.Core.dll
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\bin\Debug\net8.0\HappyHome.Core.pdb
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\obj\Debug\net8.0\HappyHome.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\obj\Debug\net8.0\HappyHome.Core.AssemblyInfoInputs.cache
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\obj\Debug\net8.0\HappyHome.Core.AssemblyInfo.cs
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\obj\Debug\net8.0\HappyHome.Core.csproj.CoreCompileInputs.cache
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\obj\Debug\net8.0\HappyHome.Core.dll
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\obj\Debug\net8.0\refint\HappyHome.Core.dll
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\obj\Debug\net8.0\HappyHome.Core.pdb
+C:\Users\kissl\OneDrive\Skrivbord\HappyHome\HappyHome.Core\obj\Debug\net8.0\ref\HappyHome.Core.dll
